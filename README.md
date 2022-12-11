@@ -35,6 +35,6 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ahmedZ0k)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/ahmedZ0k)
 - Linkedin- (https://www.linkedin.com/in/ahmed-zakaria-63b72b1b5/)
 - Github - (https://github.com/ahmedZ0k)
